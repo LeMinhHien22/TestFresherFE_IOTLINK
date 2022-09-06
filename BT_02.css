@@ -1,0 +1,31 @@
+
+body {
+    margin: 0px;
+}
+#containerBlue{
+    top: 200px;
+    left: 400px;
+    width: 1200px;
+    height: 800px;
+    background-color: rgb(83, 201, 255);
+}
+.box-01{
+    width: 300px;
+    height: 200px;
+    background-color: black;  
+}
+
+.box-02{
+    width: 300px;
+    height: 200px;
+    background-color: #123456;
+}
+
+#cursor {
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+}
+
+
